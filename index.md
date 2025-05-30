@@ -15,16 +15,16 @@ This portfolio highlights key projects using **Wireshark**, **Cisco Packet Trace
 
 Here are some of the practical projects that demonstrate my skills in Blue Team operations:
 
-- **[🐧 Linux Security Projects](https://github.com/Femijay-code/linux-security-projects)**  
+- **[🐧 Linux Security Projects](https://github.com/Femijay-code/linux-cybersecurity-projects)**  
   Projects using Ubuntu and Kali Linux focused on log analysis, bash scripting, file integrity monitoring, and security tooling inside a virtual lab.
   
 - **[🪟 Windows Log Analysis Projects](https://github.com/Femijay-code/windows-log-analysis-projects)**  
   Real-world detection projects using Windows Event Viewer and Sysmon logs.
 
-- **[🌐 Wireshark Network Analysis](https://github.com/Femijay-code/wireshark-projects)**  
+- **[🌐 Wireshark Network Analysis](https://github.com/Femijay-code/wireshark-pcap-analysis)**  
   Capturing and analyzing PCAP files to detect suspicious or malicious activity.
 
-- **[📊 Splunk Log Analysis](https://github.com/Femijay-code/splunk-log-analysis-projects)**  
+- **[📊 Splunk Log Analysis](https://github.com/Femijay-code/splunk-log-analysis)**  
   Investigating login behavior, log sources, and creating dashboards with SPL.
 
 ---
@@ -44,4 +44,3 @@ Explore weekly blog posts that break down online safety topics in simple, relata
 ---
 
 Thanks for visiting my portfolio — feel free to connect or check out the blog for new content each week.
-
