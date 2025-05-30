@@ -36,3 +36,5 @@ I'll be publishing **2–3 posts weekly** to raise awareness on cyber safety, on
 
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-olorunfemi-jacob)  
 - 📧 Email: `femijay123@gmail.com` 
+
+[🧼 Visit the Cyber Hygiene Blog](https://femijay-code.github.io/blog/welcome)
