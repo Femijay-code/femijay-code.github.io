@@ -39,6 +39,12 @@
    <priority>0.64</priority>
   </url>
 
+  <url>
+  <loc>https://femijay-code.github.io/blog/is-this-link-safe.html</loc>
+  <lastmod>2025-07-03</lastmod>
+  <priority>0.64</priority>
+</url>
+
   <!-- Add more blog posts as needed -->
 
 </urlset>
